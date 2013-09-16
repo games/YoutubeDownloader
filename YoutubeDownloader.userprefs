@@ -1,0 +1,10 @@
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="16/9/2013 12:06:19 PM">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="YoutubeDownder/MainWindowController.cs" line="60" offsetX="426" offsetY="885" expression="currentVideoInfos" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
